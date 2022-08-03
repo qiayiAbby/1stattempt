@@ -1,7 +1,6 @@
-# hello-world
+# hello
 
-Rabbit here~ 
+Abby here~ 
 
-I like something cute and lovely.
 
 Fancy meeting coding!
